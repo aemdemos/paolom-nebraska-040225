@@ -1,0 +1,36 @@
+{
+  "originUrl": "https://ndbf.nebraska.gov/",
+  "totalUrls": 0,
+  "urls": [
+    {
+      "url": "https://ndbf.nebraska.gov/about",
+      "source": "NAV"
+    },
+    {
+      "url": "https://ndbf.nebraska.gov/industries",
+      "source": "NAV"
+    },
+    {
+      "url": "https://ndbf.nebraska.gov/consumers",
+      "source": "NAV"
+    },
+    {
+      "url": "https://ndbf.nebraska.gov/searches",
+      "source": "NAV"
+    },
+    {
+      "url": "https://ndbf.nebraska.gov/reports",
+      "source": "NAV"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "logger": {}
+  },
+  "source": "SITEMAP"
+}
